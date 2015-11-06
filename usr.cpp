@@ -25,10 +25,10 @@ int main()
                                         }
                                 if(pass == "13")
                                 {
-                                        cout << "\Acces permis :P\n"; //urmeaza o noua secventa sau sir de secvente cu diferite actiuni
+                                        cout << "\n Acces permis!\n"; //urmeaza o noua secventa sau sir de secvente cu diferite actiuni
                                 }else
                                 {
-      cout << "\Accesul interzis...\n";
+      cout << "\n Accesul interzis...\n";
    }
     }else if
     {
